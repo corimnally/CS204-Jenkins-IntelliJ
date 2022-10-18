@@ -89,5 +89,5 @@ class Calculator {
         return n + saltStr;
     }
 
-
+    //test comment
 }
