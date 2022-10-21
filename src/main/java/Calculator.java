@@ -88,6 +88,4 @@ class Calculator {
 
         return n + saltStr;
     }
-
-    this will break something
 }
